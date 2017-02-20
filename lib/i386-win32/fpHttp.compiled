@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="d:\lazarus\fpc\3.0.0\bin\i386-win32\fpc.exe" Date="1231857874"/>
+  <Params Value=" -MObjFPC -Scghi -WR -O1 -g -gl -Xg -Xs -l -vewnhibq -Fid:\DoNotOpen\MyProjects\lazarus\fpHttp\lib\i386-win32 -Fud:\DoNotOpen\MyProjects\lazarus\fpHttp\lua51 -Fud:\lazarus\components\lazutils -Fud:\DoNotOpen\MyProjects\lazarus\fpHttp\ -FUd:\DoNotOpen\MyProjects\lazarus\fpHttp\lib\i386-win32\ fpHttp.lpr"/>
+</CONFIG>
